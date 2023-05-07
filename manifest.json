@@ -1,6 +1,6 @@
 {
-    "name": "eohdarksite",
-    "short_name": "eohdarksite",
+    "name": "eohdarksystem",
+    "short_name": "eohdarksystem",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
